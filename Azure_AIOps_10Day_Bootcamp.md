@@ -1,4 +1,4 @@
-# Azure AIOps Bootcamp — 10-Day Syllabus
+# Azure Cloud, AIOps & Machine Learning –  Solution Architect Mastery
 **Format:** 2 hours/day | **Style:** Hands-on lab-first, minimal theory (10–15 min max per day) | **Audience:** Intermediate cloud/DevOps engineers
 
 > Curated from the 16-module Azure Cloud + AIOps + ML source curriculum. Selected and re-sequenced into a tight 10-day arc: setup → identity/network → compute/storage AIOps → observability/self-healing → IaC → cost intelligence → security hardening. An optional capstone module follows separately for those who want to integrate everything into one workload.
